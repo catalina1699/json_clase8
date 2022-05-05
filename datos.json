@@ -1,0 +1,466 @@
+[{
+	"Gender": "MALE",
+	"Race": "BLACK HISPANIC",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "FEMALE",
+	"Race": "BLACK",
+	"Age group": "50 - 50",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "50 - 50",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "FEMALE",
+	"Race": "WHITE",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "10 - 20",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "10 - 20",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "FEMALE",
+	"Race": "BLACK",
+	"Age group": "10 - 20",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK HISPANIC",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "FEMALE",
+	"Race": "BLACK",
+	"Age group": "10 - 20",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "FEMALE",
+	"Race": "BLACK",
+	"Age group": "10 - 20",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "FEMALE",
+	"Race": "BLACK",
+	"Age group": "10 - 20",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "FEMALE",
+	"Race": "BLACK",
+	"Age group": "10 - 20",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "60 - 60",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "10 - 20",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "50 - 60",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "50 - 60",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "40 - 50",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "50 - 50",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "FEMALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "70 - 70",
+	"Bias-Motivation": "ANTI-ASIAN"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-BLACK"
+}, {
+	"Gender": "MALE",
+	"Race": "ASIAN / PACIFIC ISLANDER",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-BLACK"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "40 - 50",
+	"Bias-Motivation": "ANTI-BLACK"
+}, {
+	"Gender": "MALE",
+	"Race": "ASIAN / PACIFIC ISLANDER",
+	"Age group": "50 - 60",
+	"Bias-Motivation": "ANTI-BLACK"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "40 - 50",
+	"Bias-Motivation": "ANTI-BLACK"
+}, {
+	"Gender": "FEMALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "50 - 60",
+	"Bias-Motivation": "ANTI-BLACK"
+}, {
+	"Gender": "FEMALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "70 - 70",
+	"Bias-Motivation": "ANTI-BLACK"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "50 - 50",
+	"Bias-Motivation": "ANTI-FEMALE"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "50 - 50",
+	"Bias-Motivation": "ANTI-FEMALE"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "50 - 50",
+	"Bias-Motivation": "ANTI-FEMALE"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "50 - 50",
+	"Bias-Motivation": "ANTI-FEMALE"
+}, {
+	"Gender": "FEMALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-ISLAMIC(MUSLIM)"
+}, {
+	"Gender": "FEMALE",
+	"Race": "BLACK",
+	"Age group": "40 - 50",
+	"Bias-Motivation": "ANTI-ISLAMIC(MUSLIM)"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "40 - 40",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "50 - 60",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "ASIAN / PACIFIC ISLANDER",
+	"Age group": "50 - 60",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "60 - 70",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "ASIAN / PACIFIC ISLANDER",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "FEMALE",
+	"Race": "WHITE",
+	"Age group": "50 - 60",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "50 - 60",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "10 - 20",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "FEMALE",
+	"Race": "BLACK",
+	"Age group": "50 - 60",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "20 - 20",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "FEMALE",
+	"Race": "BLACK",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "FEMALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "40 - 50",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "ASIAN / PACIFIC ISLANDER",
+	"Age group": "10 - 20",
+	"Bias-Motivation": "ANTI-JEWISH"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-LGBT(MIXED GROUP)"
+}, {
+	"Gender": "FEMALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-LGBT(MIXED GROUP)"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "40 - 50",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "40 - 50",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "50 - 60",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK HISPANIC",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK HISPANIC",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "30 - 30",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "30 - 30",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "40 - 50",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "FEMALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "70 - 70",
+	"Bias-Motivation": "ANTI-MALE HOMOSEXUAL(GAY)"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "30 - 30",
+	"Bias-Motivation": "ANTI-TRANSGENDER"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-TRANSGENDER"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "30 - 30",
+	"Bias-Motivation": "ANTI-WHITE"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-WHITE"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK HISPANIC",
+	"Age group": "20 - 30",
+	"Bias-Motivation": "ANTI-WHITE"
+}, {
+	"Gender": "FEMALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "70 - 70",
+	"Bias-Motivation": "ANTI-WHITE"
+}, {
+	"Gender": "FEMALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "70 - 70",
+	"Bias-Motivation": "ANTI-WHITE"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK HISPANIC",
+	"Age group": "30 - 30",
+	"Bias-Motivation": "OTHER"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "30 - 40",
+	"Bias-Motivation": "OTHER"
+}, {
+	"Gender": "MALE",
+	"Race": "ASIAN / PACIFIC ISLANDER",
+	"Age group": "40 - 50",
+	"Bias-Motivation": "OTHER"
+}, {
+	"Gender": "MALE",
+	"Race": "BLACK",
+	"Age group": "40 - 50",
+	"Bias-Motivation": "OTHER"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE",
+	"Age group": "10 - 20",
+	"Bias-Motivation": "OTHER"
+}, {
+	"Gender": "MALE",
+	"Race": "WHITE HISPANIC",
+	"Age group": "50 - 60",
+	"Bias-Motivation": "OTHER"
+}]
