@@ -343,7 +343,7 @@
     },
     {
         "Gender": "MALE",
-        "Race": "ASIAN / PACIFIC ISLANDER",
+        "Race": "ASIAN_PACIFIC_ISLANDER",
         "AgeGroup": "10_20",
         "BiasMotivation": "ANTIJEWISH"
     },
